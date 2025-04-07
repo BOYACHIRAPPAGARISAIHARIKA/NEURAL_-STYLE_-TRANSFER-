@@ -124,6 +124,7 @@ In order to make it easy for anyone to interact with the model,we created a clea
 
 ![Image](https://github.com/user-attachments/assets/0edf101b-5f36-4344-b6a8-20d7da2d182b)
 ![Image](https://github.com/user-attachments/assets/7044ff10-7da0-42e4-a000-4772aca73820)
+![Image](https://github.com/user-attachments/assets/f1ce37b9-45c9-44f4-adf4-54d99e265065)
 
 
 - https://arxiv.org/abs/1508.06576 
