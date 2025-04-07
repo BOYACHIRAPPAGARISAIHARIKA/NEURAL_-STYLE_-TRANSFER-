@@ -52,9 +52,7 @@ Style transfer is a computer vision technique that takes two images — a "conte
 - A transfer network
 
 
-<div align="center">
-<img src="/Imgs/nst architecture.jpg" width="80%"/>
-</div>
+![Image](https://github.com/user-attachments/assets/1e1fb19c-485a-42db-a740-ee27bd177c75)
 
 <br> <!-- line break -->
 
