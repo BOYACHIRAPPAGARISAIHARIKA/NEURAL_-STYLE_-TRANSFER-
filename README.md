@@ -117,14 +117,13 @@ In order to make it easy for anyone to interact with the model,we created a clea
 - Checkout Official Website : https://share.streamlit.io/deepeshdm/pixelmix/main/App.py
 - Website Repository : [here](https://github.com/deepeshdm/PixelMix)
 
-<div align="center">
-  <img src="/Imgs/website.gif" width="90%"/>
-</div>
+
 
 
 ## 🖼🖌 Some of the art we created in this project
 
 ![Image](https://github.com/user-attachments/assets/0edf101b-5f36-4344-b6a8-20d7da2d182b)
+![Image](https://github.com/user-attachments/assets/7044ff10-7da0-42e4-a000-4772aca73820)
 
 
 - https://arxiv.org/abs/1508.06576 
