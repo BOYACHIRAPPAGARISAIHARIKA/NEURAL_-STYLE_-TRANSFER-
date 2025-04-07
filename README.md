@@ -14,6 +14,8 @@ MENTOR: NEELA SANTOSH
 # Neural Style Transfer
 
 Implementation of Neural Style Transfer using TensorFlow and VGG19. Applies artistic styles from style images to content images while preserving content structure.
+
+
 ![Image](https://github.com/user-attachments/assets/6393e4a5-1b6a-4a5a-8a01-e43216c47aab)
 
 
@@ -38,7 +40,7 @@ Neural Style Transfer (NST) refers to a class of software algorithms that manipu
 <br> <!-- line break -->
 
 <div align="center">
-<img src="/Imgs/nst.png"/>
+<img src="C:\Users\Balaji--24\Downloads\Screenshot 2025-04-07 085032.png"/>
 </div>
 
 <br> <!-- line break -->
