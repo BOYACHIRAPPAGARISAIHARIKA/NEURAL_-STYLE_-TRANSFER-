@@ -30,18 +30,12 @@ Implementation of Neural Style Transfer using TensorFlow and VGG19. Applies arti
 
 **🔥 Official Website :** https://share.streamlit.io/deepeshdm/pixelmix/main/App.py
 
-<div align="center">
-  <img src="/Imgs/website.gif" width="90%"/>
-</div>
-</br>
+
 
 Neural Style Transfer (NST) refers to a class of software algorithms that manipulate digital images, or videos, in order to adopt the appearance or visual style of another image. NST algorithms are characterized by their use of deep neural networks for the sake of image transformation. Popular use cases for NST are the creation of artificial artwork from photographs, for example by transferring the appearance of famous paintings to user-supplied photographs.
 
 <br> <!-- line break -->
 
-<div align="center">
-<img src="C:\Users\Balaji--24\Downloads\Screenshot 2025-04-07 085032.png"/>
-</div>
 
 <br> <!-- line break -->
 
@@ -133,27 +127,9 @@ In order to make it easy for anyone to interact with the model,we created a clea
 
 ## 🖼🖌 Some of the art we created in this project
 
-<div align="center">
-  <img src="/Imgs/content1.jpg" width="35%"/>
-<img src="/Imgs/art1.png" width="35%"/>
-</div>
+![Image](https://github.com/user-attachments/assets/0edf101b-5f36-4344-b6a8-20d7da2d182b)
 
-<div align="center">
-<img src="/Imgs/content2.jpg" width="35%"/>
-<img src="/Imgs/art2.png" width="35%"/>
-</div>
 
-<div align="center">
-<img src="/Imgs/content3.jpg" width="35%"/>
-<img src="/Imgs/art3.png" width="35%"/>
-</div>
-
-<div align="center">
-<img src="/Imgs/content4.jpg" width="35%"/>
-<img src="/Imgs/art4.png" width="35%"/>
-</div>
-
-References :
 - https://arxiv.org/abs/1508.06576 
 - https://keras.io/examples/generative/neural_style_transfer/ 
 - https://arxiv.org/abs/1705.06830 
